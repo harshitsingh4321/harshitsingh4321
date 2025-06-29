@@ -1,5 +1,3 @@
-## 📄 Profile README.md (create a repository named exactly as your username):
-
 # I'm Harshit Singh
 
 🎓 **Final Year CSE Student** at NIT Bhopal  
