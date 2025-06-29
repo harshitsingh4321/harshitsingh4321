@@ -22,6 +22,7 @@
 ## 🔥 Featured Projects
 - **Appointy** - Healthcare scheduling platform with role-based dashboards
 - **Sahayak** - Transparent crowdfunding platform with secure payments
+- **Indore Route Pathfinder** - helps the users to plan the most efficient routes across Indore
 - More exciting projects coming soon! 🚧
 
 
