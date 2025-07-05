@@ -7,7 +7,7 @@
 - Building scalable web applications with **MERN Stack** (MongoDB, Express, React, Node.js)
 - Crafting responsive UIs with **React** and **Tailwind CSS**
 - Integrating secure payment systems with **Razorpay**
-- Solving algorithmic challenges on **Codeforces** (Pupil - 1303 rating) and Knight at **Leetcode**
+- Solving algorithmic challenges on **Codeforces** (Pupil - 1355 rating) and Knight at **Leetcode**
 
 ## 🛠️ Tech Stack
 **Languages:** JavaScript, Python, C, C++, HTML, CSS, SQL  
